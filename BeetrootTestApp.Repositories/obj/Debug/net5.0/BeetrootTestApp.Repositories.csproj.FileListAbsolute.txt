@@ -1,0 +1,15 @@
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\BeetrootTestApp.Repositories.deps.json
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\BeetrootTestApp.Repositories.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\ref\BeetrootTestApp.Repositories.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\BeetrootTestApp.Repositories.pdb
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\BeetrootTestApp.DataAccess.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\bin\Debug\net5.0\BeetrootTestApp.DataAccess.pdb
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.csprojAssemblyReference.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.AssemblyInfoInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.AssemblyInfo.cs
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.csproj.CopyComplete
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\ref\BeetrootTestApp.Repositories.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Repositories\obj\Debug\net5.0\BeetrootTestApp.Repositories.pdb

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeetrootTestApp.Web", "BeetrootTestApp\BeetrootTestApp.Web.csproj", "{FEF47F5F-1DCE-49A8-94B4-B772D8D7E9EF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3B1B805-CC36-4302-88BF-29113935FE01} = {E3B1B805-CC36-4302-88BF-29113935FE01}
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A} = {77A5E433-E561-4B6B-AAE7-EC19613A785A}
+		{4DA654ED-9711-4E1C-9559-9F704710A698} = {4DA654ED-9711-4E1C-9559-9F704710A698}
+		{8795DBEE-FECC-4591-9391-2B48993741B0} = {8795DBEE-FECC-4591-9391-2B48993741B0}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeetrootTestApp.Services", "BeetrootTestApp.Services\BeetrootTestApp.Services.csproj", "{77A5E433-E561-4B6B-AAE7-EC19613A785A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3B1B805-CC36-4302-88BF-29113935FE01} = {E3B1B805-CC36-4302-88BF-29113935FE01}
+		{4DA654ED-9711-4E1C-9559-9F704710A698} = {4DA654ED-9711-4E1C-9559-9F704710A698}
+		{8795DBEE-FECC-4591-9391-2B48993741B0} = {8795DBEE-FECC-4591-9391-2B48993741B0}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeetrootTestApp.Repositories", "BeetrootTestApp.Repositories\BeetrootTestApp.Repositories.csproj", "{8795DBEE-FECC-4591-9391-2B48993741B0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E3B1B805-CC36-4302-88BF-29113935FE01} = {E3B1B805-CC36-4302-88BF-29113935FE01}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeetrootTestApp.DataAccess", "BeetrootTestApp.DataAccess\BeetrootTestApp.DataAccess.csproj", "{E3B1B805-CC36-4302-88BF-29113935FE01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeetrootTestApp.Common", "BeetrootTestApp.Common\BeetrootTestApp.Common.csproj", "{4DA654ED-9711-4E1C-9559-9F704710A698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeetrootTestApp.HostedServices", "BeetrootTestApp.HostedServices\BeetrootTestApp.HostedServices.csproj", "{29587D48-B111-4841-A8A7-B34E990D0654}"
+	ProjectSection(ProjectDependencies) = postProject
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A} = {77A5E433-E561-4B6B-AAE7-EC19613A785A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF47F5F-1DCE-49A8-94B4-B772D8D7E9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF47F5F-1DCE-49A8-94B4-B772D8D7E9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF47F5F-1DCE-49A8-94B4-B772D8D7E9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF47F5F-1DCE-49A8-94B4-B772D8D7E9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A5E433-E561-4B6B-AAE7-EC19613A785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8795DBEE-FECC-4591-9391-2B48993741B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8795DBEE-FECC-4591-9391-2B48993741B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8795DBEE-FECC-4591-9391-2B48993741B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8795DBEE-FECC-4591-9391-2B48993741B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B1B805-CC36-4302-88BF-29113935FE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B1B805-CC36-4302-88BF-29113935FE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B1B805-CC36-4302-88BF-29113935FE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B1B805-CC36-4302-88BF-29113935FE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA654ED-9711-4E1C-9559-9F704710A698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA654ED-9711-4E1C-9559-9F704710A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA654ED-9711-4E1C-9559-9F704710A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA654ED-9711-4E1C-9559-9F704710A698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29587D48-B111-4841-A8A7-B34E990D0654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29587D48-B111-4841-A8A7-B34E990D0654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29587D48-B111-4841-A8A7-B34E990D0654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29587D48-B111-4841-A8A7-B34E990D0654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5EA0CF-4A9C-4EAA-BC05-B717344985A7}
+	EndGlobalSection
+EndGlobal

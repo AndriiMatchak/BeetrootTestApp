@@ -1,0 +1,11 @@
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\bin\Debug\net5.0\BeetrootTestApp.DataAccess.deps.json
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\bin\Debug\net5.0\BeetrootTestApp.DataAccess.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\bin\Debug\net5.0\ref\BeetrootTestApp.DataAccess.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\bin\Debug\net5.0\BeetrootTestApp.DataAccess.pdb
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.AssemblyInfo.cs
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\ref\BeetrootTestApp.DataAccess.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.DataAccess\obj\Debug\net5.0\BeetrootTestApp.DataAccess.pdb

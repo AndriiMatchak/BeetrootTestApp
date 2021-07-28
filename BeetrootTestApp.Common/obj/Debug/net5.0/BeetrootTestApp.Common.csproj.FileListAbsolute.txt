@@ -1,0 +1,12 @@
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\bin\Debug\net5.0\BeetrootTestApp.Common.deps.json
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\bin\Debug\net5.0\BeetrootTestApp.Common.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\bin\Debug\net5.0\ref\BeetrootTestApp.Common.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\bin\Debug\net5.0\BeetrootTestApp.Common.pdb
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.AssemblyInfoInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.AssemblyInfo.cs
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\ref\BeetrootTestApp.Common.dll
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.pdb
+C:\Users\andrm\source\repos\BeetrootTestApp\BeetrootTestApp.Common\obj\Debug\net5.0\BeetrootTestApp.Common.csprojAssemblyReference.cache
